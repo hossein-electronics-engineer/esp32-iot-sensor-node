@@ -1,0 +1,62 @@
+[
+  {
+    "timestamp_s": 0.0,
+    "raw_value": 2.5457075619631646,
+    "filtered_value": 1.452478962046946,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.1,
+    "raw_value": 2.3480021174025922,
+    "filtered_value": 1.7700971992606258,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.2,
+    "raw_value": 2.6205655462082955,
+    "filtered_value": 2.1021885931606286,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.30000000000000004,
+    "raw_value": 2.653077508754571,
+    "filtered_value": 2.4654912362938965,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.4,
+    "raw_value": 2.223327660495759,
+    "filtered_value": 2.4561719037387744,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.5,
+    "raw_value": 2.324639757300018,
+    "filtered_value": 2.482077810923719,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.6000000000000001,
+    "raw_value": 2.543118501932877,
+    "filtered_value": 2.451689779400981,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.7000000000000001,
+    "raw_value": 2.4804722340773098,
+    "filtered_value": 2.4543420727772474,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.8,
+    "raw_value": 2.5293434676972057,
+    "filtered_value": 2.5167687948393556,
+    "event_flag": false
+  },
+  {
+    "timestamp_s": 0.9,
+    "raw_value": 2.407849325549128,
+    "filtered_value": 2.550026705213583,
+    "event_flag": false
+  }
+]

@@ -1,0 +1,591 @@
+[
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.414694+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 1,
+    "timestamp_s": 0.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.5457075619631646,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.415022+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 21,
+    "timestamp_s": 2.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.5593957962865046,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.415244+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 41,
+    "timestamp_s": 4.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.663897154087948,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.415508+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 61,
+    "timestamp_s": 6.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.650084052312894,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.415721+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 81,
+    "timestamp_s": 8.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.7283999341572924,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.415939+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 101,
+    "timestamp_s": 10.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.550553946451498,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.416143+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 121,
+    "timestamp_s": 12.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.646494265211456,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.416349+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 141,
+    "timestamp_s": 14.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.663619953748154,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.416588+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 161,
+    "timestamp_s": 16.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 3.3041283887054753,
+    "last_event_flag": true
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.416868+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 181,
+    "timestamp_s": 18.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.4676202191177135,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.417069+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 201,
+    "timestamp_s": 20.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.322921717751844,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.417471+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 221,
+    "timestamp_s": 22.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.345491650939605,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.417712+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 241,
+    "timestamp_s": 24.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.168195422721746,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.417984+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 261,
+    "timestamp_s": 26.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.2933775467640243,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.418177+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 281,
+    "timestamp_s": 28.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.4080187827141386,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.418365+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 301,
+    "timestamp_s": 30.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.436235414183955,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.418556+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 321,
+    "timestamp_s": 32.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.5219370974710786,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.418742+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 341,
+    "timestamp_s": 34.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.5437879547460858,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.418976+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 361,
+    "timestamp_s": 36.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 3.464803291656587,
+    "last_event_flag": true
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.419213+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 381,
+    "timestamp_s": 38.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.7313741574981236,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.419404+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 401,
+    "timestamp_s": 40.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.730715159232713,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.419595+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 421,
+    "timestamp_s": 42.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.7561210248021117,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.419794+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 441,
+    "timestamp_s": 44.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.590056313464087,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.419985+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 461,
+    "timestamp_s": 46.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.579313930097342,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.420170+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 481,
+    "timestamp_s": 48.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.541930334647144,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.420360+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 501,
+    "timestamp_s": 50.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.3230585605103435,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.420630+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 521,
+    "timestamp_s": 52.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 3.0845588074198687,
+    "last_event_flag": true
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.420823+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 541,
+    "timestamp_s": 54.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.195510946341147,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.421014+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 561,
+    "timestamp_s": 56.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.208299471471864,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.421204+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 581,
+    "timestamp_s": 58.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.3080555482496647,
+    "last_event_flag": false
+  },
+  {
+    "device_id": "esp32-node-01",
+    "device_type": "esp32-sensor-node",
+    "firmware_version": "1.0.0",
+    "location": "lab",
+    "cloud_timestamp": "2026-04-20T17:38:33.421392+00:00",
+    "message_type": "heartbeat",
+    "sample_index": 601,
+    "timestamp_s": 60.0,
+    "status": {
+      "node_status": "alive",
+      "wifi_status": "connected",
+      "mqtt_status": "connected",
+      "cpu_load_pct": 22.5,
+      "free_heap_kb": 128.0
+    },
+    "last_filtered_value": 2.330768804536366,
+    "last_event_flag": false
+  }
+]

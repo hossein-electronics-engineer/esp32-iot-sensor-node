@@ -1,0 +1,434 @@
+[
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 155,
+    "timestamp_s": 15.5,
+    "raw_value": 3.5735056195236403,
+    "filtered_value": 3.0598941560263304,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 156,
+    "timestamp_s": 15.600000000000001,
+    "raw_value": 3.323859373366152,
+    "filtered_value": 3.1696261596343107,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 157,
+    "timestamp_s": 15.700000000000001,
+    "raw_value": 3.447729457236756,
+    "filtered_value": 3.3043833998029655,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 158,
+    "timestamp_s": 15.8,
+    "raw_value": 3.221424398832516,
+    "filtered_value": 3.311885372767289,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 159,
+    "timestamp_s": 15.9,
+    "raw_value": 3.114578854136399,
+    "filtered_value": 3.318385043992822,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 160,
+    "timestamp_s": 16.0,
+    "raw_value": 3.1435576569796284,
+    "filtered_value": 3.3041283887054753,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 161,
+    "timestamp_s": 16.1,
+    "raw_value": 3.175550683625464,
+    "filtered_value": 3.2857437205286506,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 162,
+    "timestamp_s": 16.2,
+    "raw_value": 3.5996207411162526,
+    "filtered_value": 3.2894744521847383,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 163,
+    "timestamp_s": 16.3,
+    "raw_value": 3.153165826937978,
+    "filtered_value": 3.265089659837856,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 164,
+    "timestamp_s": 16.400000000000002,
+    "raw_value": 3.398180207106206,
+    "filtered_value": 3.258011195533492,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 165,
+    "timestamp_s": 16.5,
+    "raw_value": 3.1330117844582963,
+    "filtered_value": 3.245380822051461,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 166,
+    "timestamp_s": 16.6,
+    "raw_value": 3.4042434669629644,
+    "filtered_value": 3.286761481026684,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 167,
+    "timestamp_s": 16.7,
+    "raw_value": 3.3183210103289458,
+    "filtered_value": 3.3117276743623014,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 168,
+    "timestamp_s": 16.8,
+    "raw_value": 3.2331692992738104,
+    "filtered_value": 3.3199589051692078,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 169,
+    "timestamp_s": 16.900000000000002,
+    "raw_value": 3.246654556940305,
+    "filtered_value": 3.269535164572644,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 170,
+    "timestamp_s": 17.0,
+    "raw_value": 2.3506736252802254,
+    "filtered_value": 3.154893421478679,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 171,
+    "timestamp_s": 17.1,
+    "raw_value": 2.5119458961576875,
+    "filtered_value": 3.0282885199146046,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 353,
+    "timestamp_s": 35.300000000000004,
+    "raw_value": 3.562266828942051,
+    "filtered_value": 3.015785546378129,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 354,
+    "timestamp_s": 35.4,
+    "raw_value": 3.603297379510227,
+    "filtered_value": 3.14329154002239,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 355,
+    "timestamp_s": 35.5,
+    "raw_value": 3.480725511045751,
+    "filtered_value": 3.2993918350080342,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 356,
+    "timestamp_s": 35.6,
+    "raw_value": 3.483662788263965,
+    "filtered_value": 3.3899510918481703,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 357,
+    "timestamp_s": 35.7,
+    "raw_value": 3.49170358750367,
+    "filtered_value": 3.504958631256001,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 358,
+    "timestamp_s": 35.800000000000004,
+    "raw_value": 3.324239300327444,
+    "filtered_value": 3.4710822388723384,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 359,
+    "timestamp_s": 35.9,
+    "raw_value": 3.434139282043077,
+    "filtered_value": 3.4828620968051696,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 360,
+    "timestamp_s": 36.0,
+    "raw_value": 3.4358551929019763,
+    "filtered_value": 3.464803291656587,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 361,
+    "timestamp_s": 36.1,
+    "raw_value": 3.518644149800867,
+    "filtered_value": 3.452709973126679,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 362,
+    "timestamp_s": 36.2,
+    "raw_value": 3.613445752682779,
+    "filtered_value": 3.471670007646254,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 363,
+    "timestamp_s": 36.300000000000004,
+    "raw_value": 3.3069633621812056,
+    "filtered_value": 3.446427232491574,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 364,
+    "timestamp_s": 36.4,
+    "raw_value": 3.4491977834618597,
+    "filtered_value": 3.440354974771316,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 365,
+    "timestamp_s": 36.5,
+    "raw_value": 2.892305656274559,
+    "filtered_value": 3.378650168478046,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 366,
+    "timestamp_s": 36.6,
+    "raw_value": 2.560619243257896,
+    "filtered_value": 3.2538615915087346,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 367,
+    "timestamp_s": 36.7,
+    "raw_value": 2.5508212677446704,
+    "filtered_value": 3.1274281736291196,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 368,
+    "timestamp_s": 36.800000000000004,
+    "raw_value": 2.706436330685286,
+    "filtered_value": 3.0113984851840363,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 506,
+    "timestamp_s": 50.6,
+    "raw_value": 3.5349510594777485,
+    "filtered_value": 3.044626253167998,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 507,
+    "timestamp_s": 50.7,
+    "raw_value": 3.234075628548217,
+    "filtered_value": 3.135812041204285,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 508,
+    "timestamp_s": 50.800000000000004,
+    "raw_value": 3.0819137861654093,
+    "filtered_value": 3.101494121675259,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 509,
+    "timestamp_s": 50.900000000000006,
+    "raw_value": 3.232671960101765,
+    "filtered_value": 3.1237829742261627,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 510,
+    "timestamp_s": 51.0,
+    "raw_value": 2.9258813095321248,
+    "filtered_value": 3.1194869855668332,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 511,
+    "timestamp_s": 51.1,
+    "raw_value": 3.1125976799899187,
+    "filtered_value": 3.173650423978102,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 512,
+    "timestamp_s": 51.2,
+    "raw_value": 3.1693460468824135,
+    "filtered_value": 3.1844910672425137,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 513,
+    "timestamp_s": 51.300000000000004,
+    "raw_value": 3.1387957979810306,
+    "filtered_value": 3.1278974584572685,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 514,
+    "timestamp_s": 51.400000000000006,
+    "raw_value": 3.2676775974963714,
+    "filtered_value": 3.132697739735576,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 515,
+    "timestamp_s": 51.5,
+    "raw_value": 3.1981596219826915,
+    "filtered_value": 3.1493042877094735,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 516,
+    "timestamp_s": 51.6,
+    "raw_value": 3.244179312385554,
+    "filtered_value": 3.1509481951785863,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 517,
+    "timestamp_s": 51.7,
+    "raw_value": 3.038204564712042,
+    "filtered_value": 3.166994374490003,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 518,
+    "timestamp_s": 51.800000000000004,
+    "raw_value": 3.273726129408889,
+    "filtered_value": 3.1900127244069987,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 519,
+    "timestamp_s": 51.900000000000006,
+    "raw_value": 3.3810521477183757,
+    "filtered_value": 3.2202564530978504,
+    "event_flag": true
+  },
+  {
+    "packet_type": "telemetry",
+    "node_id": "esp32-node-01",
+    "sample_index": 520,
+    "timestamp_s": 52.0,
+    "raw_value": 2.1889122782351573,
+    "filtered_value": 3.0845588074198687,
+    "event_flag": true
+  }
+]
